@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Bye Bye Buy</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+
+  <html>
+    <body>
+      <main>
+        <div class="love">LOVE</div>
+        <div class="battle">is a battlefield</div>
+      </main>
+
+      <div class="give-title">
+        <label for="customname">give death loop a title -></label>
+        <input class="title" id="customname" type="text" placeholder="" />
+      </div>
+
+      <div class="tick-box">
+        <label for="us">less love</label>
+        <input id="us" type="radio" name="ukus" value="us" checked />
+        <label for="uk">more horror</label>
+        <input id="uk" type="radio" name="ukus" value="uk" />
+      </div>
+
+      <div class="press-button">
+        <button
+          onclick="document.getElementById('myImage').src='./images/skull4.jpg'"
+          class="randomize"
+          id="button"
+        >
+          GENERATE HAIKU
+        </button>
+      </div>
+
+      <img id="myImage" class="ersatz" src="./images/black.png" />
+
+      <p class="story" id="haiku"></p>
+
+      <!-- <img src="./images/black.png" alt="black" width="200" height="120" />
+      <img src="./images/one.jpg" alt="one" width="200" height="120" /> 
+
+      onclick="document.getElementById('myImage').src='./images/one.jpg'"
+      
+      <button
+        onclick="document.getElementById('myImage').src='./images/black.png'"
+      >
+        Turn on the light
+      </button>
+
+      <img id="myImage" src="./images/one.jpg" style="width:100px" />--->
+
+      <!-- <button
+        onclick="document.getElementById('myImage').src='./images/one.jpg'"
+      >
+        Turn off the light
+      </button>--->
+
+      <script src="script.js"></script>
+    </body>
+  </html>
+</html>

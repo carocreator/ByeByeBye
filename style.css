@@ -1,0 +1,64 @@
+body {
+  color: #ff00cc;
+  font-family: "Press Start 2P";
+  font-style: italic;
+  background: black;
+  font-size: 13px;
+  line-height: 20px;
+}
+
+.love {
+  font-size: 50px;
+  margin-left: 15px;
+  margin-top: 30px;
+}
+
+.battle {
+  font-size: 20px;
+  margin-top: 20px;
+  margin-left: 15px;
+  margin-bottom: 30px;
+}
+
+.give-title {
+  margin: 15px;
+}
+
+.title {
+  margin-top: 10px;
+}
+
+.tick-box {
+  margin: 15px;
+}
+
+.press-button {
+  margin-top: 40px;
+  margin-left: 15px;
+  margin-bottom: 15px;
+}
+
+.ersatz {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
+  height: 100px;
+}
+
+#haiku {
+  font-size: 20px;
+  margin-top: 60px;
+  margin-left: 15px;
+  margin-bottom: 30px;
+  line-height: 25px;
+}
+
+#button {
+  color: white;
+  font-family: "Press Start 2P";
+  font-style: italic;
+  background: black;
+  font-size: 13px;
+  line-height: 20px;
+}
