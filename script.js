@@ -113,7 +113,7 @@ var insertY = [
   "My mission is to make it up to Cambodia",
   "I'm an American. An American civilian",
   "Don't try to escape, you'll be shot",
-  "Would they still want me to kill hm?",
+  "Would they still want me to kill him?",
   "You must make a friend of horror",
   "Horror and moral terror are your friends",
   "The whole hill smelled like victory",
